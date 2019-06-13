@@ -1,5 +1,12 @@
 Awesome cars query
 
+American:
 Camaro
 Challenger
 Mustang
+
+Japanese:
+lancer
+gtr
+civic
+
